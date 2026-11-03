@@ -1,0 +1,10 @@
+# Upstream source checkout and local binaries
+/go-ethereum/
+*.exe
+
+# Local configuration and credentials
+.env
+.env.*
+.aws/
+.codex/
+.agents/
