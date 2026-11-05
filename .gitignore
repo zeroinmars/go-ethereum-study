@@ -1,5 +1,6 @@
 # Upstream source checkout and local binaries
 /go-ethereum/
+/lighthouse/
 *.exe
 
 # Local configuration and credentials
@@ -8,3 +9,4 @@
 .aws/
 .codex/
 .agents/
+.local/
